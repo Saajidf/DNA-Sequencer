@@ -1,3 +1,10 @@
+/*
+ *Title: Sequencer.cpp
+ *Date: 2/22/2017
+ *Author: Saajid Farooq
+ *Description: This is the Sequencer Class for the DNA sequencer
+*/
+
 #include <fstream>
 #include <cstdlib>
 #include <string>
