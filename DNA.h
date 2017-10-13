@@ -1,3 +1,10 @@
+/*
+ *Title: DNA.h
+ *Date: 2/22/2017
+ *Author: Saajid Farooq
+ *Description: This is the DNA Class for the sequencer
+*/
+
 #ifndef DNA_H
 #define DNA_H
 
