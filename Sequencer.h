@@ -1,3 +1,10 @@
+/*
+ *Title: Sequencer.h
+ *Date: 2/22/2017
+ *Author: Saajid Farooq
+ *Description: This is the Sequencer class for the DNA sequencer
+*/
+
 #ifndef SEQUENCER_H
 #define SEQUENCER_H
 
